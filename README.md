@@ -1,4 +1,4 @@
-# Cologne Crafters
+# Cologne Crafters-Proiect Magazin Online
 
 ## Obiectivul Proiectului
 Am dezvoltat **Cologne Crafters** pentru a oferi o experiență optimizată clienților site-ului meu web. Proiectul utilizează o arhitectură bazată pe microservicii și este construit folosind **XAMPP** ca mediu de dezvoltare.
