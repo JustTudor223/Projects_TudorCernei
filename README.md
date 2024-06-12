@@ -1,39 +1,29 @@
-# Cologne Crafters
+# Retail Inventory Management Dashboard 🛒
 
-## Obiectivul Proiectului
-Am dezvoltat **Cologne Crafters** pentru a oferi o experiență optimizată clienților site-ului meu web. Proiectul utilizează o arhitectură bazată pe microservicii și este construit folosind **XAMPP** ca mediu de dezvoltare.
+![React Version](https://img.shields.io/badge/react-17.0.1-blue.svg)
+![Node Version](https://img.shields.io/badge/node-14.17.3-green.svg)
+![MongoDB](https://img.shields.io/badge/database-MongoDB-green.svg)
 
-## Arhitectura Aplicației
-- **Microservicii**: Am ales această arhitectură pentru a asigura flexibilitatea și scalabilitatea aplicației.
-- **Mediu de dezvoltare XAMPP**: Folosesc XAMPP pentru a rula aplicația pe un server local.
-- **Tehnologii utilizate**:
-  - **HTML și CSS**: Pentru a crea structura și designul paginilor.
-  - **JavaScript**: Adaug funcționalități dinamice.
-  - **PHP**: Gestionează logica aplicației și interacțiunea cu baza de date **MySQL**, care stochează informații despre utilizatori, produse și comenzi.
+## 🌟 Project Overview
 
-## Funcționalități
-- **Catalog de produse**:
-  - Listează produse cu detalii, imagini și prețuri.
-  - Include o funcționalitate de căutare pentru a găsi rapid produsele dorite.
-- **Coș de cumpărături**:
-  - Permite adăugarea și eliminarea produselor din coș.
-  - Calculează automat totalul comenzii.
-- **Securitate**:
-  - Protejez datele personale ale utilizatorilor.
-- **Procesul de comandă**:
-  - Colectez datele clienților, inclusiv adresa de livrare și informații de plată.
-  - Ofer multiple opțiuni de plată, inclusiv card de credit și PayPal.
-- **Gestionarea contului**:
-  - Permit crearea și gestionarea contului de client.
-  - Ofer acces la istoricul comenzilor și posibilitatea de a urmări starea comenzilor.
-  - Facilitatez administrarea datelor personale și a preferințelor.
-- **Optimizare pentru mobile**:
-  - Asigur că aplicația este optimizată pentru dispozitive mobile, oferind o experiență de cumpărare convenabilă de pe telefoane și tablete.
+This project aims to develop a comprehensive operational dashboard for a retail chain, enabling real-time monitoring and management of inventory across multiple store locations. This dashboard will enhance decision-making processes, ensuring optimal inventory management by efficiently tracking stock levels, sales trends, and supplier performance.
 
-## Caracteristici Specifice
-- Implementez formular de autentificare și înregistrare pentru utilizatori.
-- Dezvolt un panou administrativ responsiv.
-- Ofer un sistem de adăugare categorii și produse.
-- Include pagini dedicate pentru gestionarea utilizatorilor, comenzilor, căutărilor, coșului de cumpărături și finalizarea comenzilor.
+## 🎯 Objective
 
+An operational dashboard that allows supervision teams to effectively monitor and manage inventory, sales data, and supplier performance across a retail chain.
 
+## 🔑 Key Features
+
+- **Multiple Filters**: Filter data by categories such as electronics or clothing, various brands, store locations, and time periods.
+- **Crucial Information Display**: Interactive widgets and visualizations display stock levels, restocking dates, best-selling products, and more.
+- **XL Exports**: Export functionality for detailed reports and data tables in Excel format.
+- **Notifications**: Customizable alert system for critical stock levels and other key updates.
+- **Supplier Performance Tracking**: Evaluate supplier performance with metrics on delivery timeliness and order accuracy.
+- **Sales Data Analysis**: Analytical tools to forecast demand and adjust inventory proactively.
+- **User Management and Access Control**: Role-based access control system to secure sensitive data.
+
+## 🛠 Technologies Used
+
+- **Frontend**: React
+- **Backend**: NodeJS
+- **Database**: MongoDB
